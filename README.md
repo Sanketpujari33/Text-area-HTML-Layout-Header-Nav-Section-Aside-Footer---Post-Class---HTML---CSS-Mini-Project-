@@ -1,10 +1,6 @@
 
-# Worldwide Photography
-
-A brief description of what this project does and who it's for
-
 # parallax-website-project
-
+ - Worldwide Photography
 newton school mini project
 
 
