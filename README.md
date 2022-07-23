@@ -1,7 +1,7 @@
 
 # parallax-website-project
  - Worldwide Photography
-newton school mini project
+ - newton school mini project
 
 
 # Parallax Site
